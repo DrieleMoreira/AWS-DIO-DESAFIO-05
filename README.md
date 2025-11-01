@@ -74,9 +74,7 @@ Athena → consultas SQL diretamente sobre dados armazenados no S3;
 
 ### Esse projeto mostrou o fluxo dos sistemas integrados para funcionamento de um software, a relação do usuário e suas solicitações e o fornecimento de informações armazenadas no Banco de Dados. 
 
-![image]()
+![image](https://github.com/DrieleMoreira/AWS-DIO-DESAFIO-05/blob/main/Lambda%20e%20S3.drawio)
 
-Glue / EMR → processamento de big data;
 
-Backup e Disaster Recovery → armazenamento de snapshots, logs e backups automáticos.
 
